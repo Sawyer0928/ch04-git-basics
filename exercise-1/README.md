@@ -24,3 +24,6 @@ breakfast today
 6. Using your terminal, add and commit the changes you've made to your repository
 
 7. Push changes up to GitHub
+
+
+- To catch a biology class on 10:30 AM, I didn't take anything for the breakfast.......
