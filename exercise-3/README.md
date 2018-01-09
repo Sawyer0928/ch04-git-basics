@@ -1,5 +1,16 @@
 # Exercise 3
 
+Hi there, my name is tiff.
+
+I am the housecat of this student.
+
+What I'm going to do is escape from this dummy little appartment. 
+
+See ya in the nature. 
+
+Bye.
+
+
 Learn the basics of git workflow:
 
 1. **Fork** the repo onto your own github account  
